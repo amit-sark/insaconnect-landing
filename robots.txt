@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+Allow: /
+
+Sitemap: https://insaconnect.vercel.app/sitemap.xml
